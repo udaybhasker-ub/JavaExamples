@@ -1,0 +1,5 @@
+Insured Name,Phone Number,Zip,City,Insurance Date
+ABC,(123) 456-7890,12345,St. Louis,12/31/2006
+BCD,(408) 456-7890,56789,San Jose,12/31/2009
+EFG,(203) 456-7890,65743,Bridgeport,12/31/2006
+IJK,(313) 456-7890,96589,Dallas,12/31/2007
